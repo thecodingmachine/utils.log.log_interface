@@ -1,2 +1,0 @@
-This package contains an interface used by many components to log messages.
-Please download a logger package that implements this interface (like the errorlog_logger package)
