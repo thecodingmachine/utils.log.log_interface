@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+	<displayName>LogInterface</displayName>
+	<shortDescription>This package contains an interface used by many components to log messages. Please download a logger package that implements this interface (like the errorlog_logger package)</shortDescription>
+	<docUrl></docUrl>
+	<logo>logo.png</logo>
+	<requires>
+		<require>LogInterface.php</require>
+	</requires>
+</package>
