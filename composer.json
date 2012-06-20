@@ -12,7 +12,7 @@
             "homepage": "http://mouf-php.com"
         }
     ],
-    "requires": {
+    "require": {
     	"php": ">=5.3.0",
     	"mouf/utils.log.logger": "1.*"
     },
