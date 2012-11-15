@@ -5,7 +5,7 @@
  * See the file LICENSE.txt for copying permission.
  */
 
-namespace Mouf\Utils\Log\LogInterface;
+namespace Mouf\Utils\Log;
 
 /**
  * This is the base interface any logger should inherit.
