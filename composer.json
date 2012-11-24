@@ -3,7 +3,7 @@
     "description": "This package contains an interface used by many components to log messages. Please download a logger package that implements this interface (like the utils.log.errorlog_logger package)",
     "keywords": ["log", "logger", "interface"],
     "homepage": "https://github.com/thecodingmachine/utils.log.log_interface",
-    "type": "library",
+    "type": "mouf-library",
     "license": "MIT",
     "authors": [
         {
