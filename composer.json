@@ -20,5 +20,10 @@
         "psr-0": {
             "Mouf": "src/"
         }
+    },
+    "extra": {
+    	"mouf": {
+	    	"logo": "logo.png"
+    	}
     }
 }
